@@ -118,7 +118,7 @@ export const Container = styled.div`
   margin: 0 auto;
 `;
 const TopContainer = styled.section`
-  height: 140px;
+  height: 100px;
   display: flex;
   justify-content: space-between;
   padding: 16px;
