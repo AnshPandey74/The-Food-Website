@@ -53,7 +53,7 @@ app.get("/", (req, res) => {
       text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
       image: "/images/pancake.png",
       type: "dinner",
-    },
+    }, 
   ];
 
   res.json(foodData);
